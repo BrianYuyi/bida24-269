@@ -1,1 +1,1 @@
-# Wmd_assignment
+# HisImageApparel_WebDevelopment_Assignment
